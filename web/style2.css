@@ -1,0 +1,54 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 20, 2019, 1:39:19 PM
+    Author     : wujiayu
+*/
+
+
+.fail{
+      font-family: verdana;
+      font-weight: bold;
+      font-size: 20px;
+      margin: 20px 330px;
+}
+
+a:link, a:visited {
+  background-color: rgb(234, 234, 234);
+  color:black;
+  font-size: 20px;
+  padding: 7px 320px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  text-align: center;
+  margin: 0px 330px;
+  border-style: solid;
+  border-color: black;
+}
+
+
+.message{
+    padding: 30px;
+    margin: 40px 330px;
+    background-color:black;
+    color:rgb(234, 234, 234);
+    font-size:20px;
+}
+
+.back{
+  background-color: rgb(234, 234, 234);
+  color:black;
+  font-size: 20px;
+  padding: 7px 320px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  text-align: center;
+  margin: 0px 330px;
+  border-style: solid;
+  border-color: black;
+}
