@@ -1,4 +1,4 @@
-# Bell-Curve-Calculator
+# Bell-Curve-Grade-System
 
 - A web application that receives students’ raw grade input and outputs their curved grade
 - The curving algorithm is based on the user’s desired frequency distribution
